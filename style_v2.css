@@ -1,0 +1,21 @@
+html
+{
+	color: #444444;
+	background-color: #EEEEEE;
+	margin: 20px 20%;
+}
+
+body
+{
+	line-height: 1.4;
+	font-size: 18px;
+
+}
+
+footer
+{
+	border-top: 1px solid grey;
+}
+
+
+
