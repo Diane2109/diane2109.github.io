@@ -1,15 +1,17 @@
 html
 {
-	color: #444444;
+	color: #454545;
 	background-color: #EEEEEE;
-	margin: 20px 20%;
+	margin: 0;
+	padding: 0;
 }
 
 body
 {
 	line-height: 1.4;
 	font-size: 18px;
-
+	padding: 20px 20%;
+	margin: 0;
 }
 
 footer
@@ -17,5 +19,19 @@ footer
 	border-top: 1px solid grey;
 }
 
+strong
+{
+	color: red;
+	text-decoration: underline;
+}
+
+#tiny
+{
+	font-size: 0.4em;
+}
 
 
+.green
+{
+	color: #239F85;
+}
