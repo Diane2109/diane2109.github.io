@@ -1,1 +1,1 @@
-# wedsite : diane2109.github.io
+# website : diane2109.github.io
